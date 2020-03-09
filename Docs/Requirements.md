@@ -18,23 +18,26 @@
 
 1. System shall be simple and easy to use
 
-	1.1. System shall create a city from scratch with only take one click
+	1.1. System shall create a city from scratch with only take one click (Test ID 1)
 
-	1.1.1. System shall accomplish the above by using a nested drop-down list
+	1.1.1. System shall accomplish the above by using a nested drop-down list (Test ID 1)
 
 2. System shall be able to be printed easily
 
-	2.1. System shall accomplish the above by having the ability to export as a Microsoft Word document
+	2.1. System shall accomplish the above by having the ability to export as a Microsoft Word document (Test ID 2)
 	
 3.	System shall produce convincing random names appropriate for the fantasy race selected
 
-	3.1.	System shall contain a bank of names to produce the above requirement
+	3.1.	System shall contain a bank of names to produce the above requirement (Test ID 3)
 	
-	3.1.1.	 System shall utilize Markov chains to produce further randomized names
+	3.1.1.	 System shall utilize Markov chains to produce further randomized names (Test ID 3)
 	
 4.	System shall be fully customizable
 
-	4.1.	System shall allow user to customize the names of buildings and characters as well as the attributes of the characters
+	4.1.	System shall allow user to customize the names of buildings and characters as well as the attributes of the characters (Test ID 4)
 	
-	4.1.1.	 System shall accomplish the above by providing a button by each field which, when clicked by the user, allows them to 			 enter the information they would like
+	4.1.1.	 System shall accomplish the above by providing a button by each field which, when clicked by the user, allows them to 			 enter the information they would like (Test ID 4)
+
+[View Test Table](https://github.com/josh-e-g/Jericho/blob/master/Docs/TestTable.md)
+
 
