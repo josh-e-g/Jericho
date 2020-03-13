@@ -11,6 +11,8 @@ A student project by Josh Gaston for Microsoft Software & Systems Academy
 
 [Test Table](https://github.com/josh-e-g/Jericho/blob/master/Docs/TestTable.md)
 
+[Prototype](https://github.com/josh-e-g/Jericho/tree/master/Prototype)
+
 
 ## Concept Description
 ![Jericho logo](https://i.imgur.com/2KSNl8q.png)
