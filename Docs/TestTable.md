@@ -8,3 +8,5 @@
 | 4 | 4.1, 4.1.1 | After performing Test ID 1, hover cursor over an arrow next to a name, move cursor to "Customize," click mouse button. Verify the user is able to edit the information. Click "Enter," verify information is saved. | Not Tested |
 
 [View Requirements List](https://github.com/josh-e-g/Jericho/blob/master/Docs/Requirements.md)
+
+[Return to Table of Contents](https://github.com/josh-e-g/Jericho#jericho)
