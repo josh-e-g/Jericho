@@ -39,5 +39,6 @@
 	4.1.1.	 System shall accomplish the above by providing a button by each field which, when clicked by the user, allows them to 			 enter the information they would like (Test ID 4)
 
 [View Test Table](https://github.com/josh-e-g/Jericho/blob/master/Docs/TestTable.md)
+[Return to Table of Contents](https://github.com/josh-e-g/Jericho#jericho)
 
 
